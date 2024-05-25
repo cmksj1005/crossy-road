@@ -16,9 +16,9 @@ I created this game because it is one of my favorite arcade games. To make this 
 3. Progress through the stages and see how far you can get!
 
 ## How to run
-'''
+```
 python main.py
-'''
+```
 
 ## Contributing
 
