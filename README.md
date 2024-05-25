@@ -6,7 +6,7 @@ I created this game because it is one of my favorite arcade games. To make this 
 
 * Two Types of Cars: There are two different types of cars in the game - a normal speed car and a high-speed car.
 * Increasing Difficulty: The speed of the cars increases with each stage you pass, adding to the game's difficulty.
-* Simple Controls: Use the space bar to move your character forward. Note that it is impossible to move backward; you can only move forward.
+* Simple Controls: Use the space bar to move your character forward. Note that it is impossible to move backward. You can only move forward.
 * Challenging and Fun: The game is designed to be challenging and enjoyable. Try to beat your highest stage!
 
 ## How to play
